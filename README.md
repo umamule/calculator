@@ -41,14 +41,14 @@ Minimum SDK: 21
 ## Screenshots
 
 ### Calculator Screen
-![Calculator Screen]()
+
 <img src="Screenshot/home.jpg" width="300" />
 
 
 ### History Screen
-![History Screen](Screenshot/history.g)
 
 
+<img src="Screenshot/history.jpg" width="300" />
 
 
 
